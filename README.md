@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### I speak...
+
 <img src="images/icons/js.png"> <img src="images/icons/node.png"> <img src="images/icons/python.png"> <img src="images/icons/firebase.png"> <img src="images/icons/bigquery.png"> <img src="images/icons/powerbi.png">
 
 <img src="images/hero-peaks.svg"
