@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <img src="images/hero-peaks.svg"
   style="
     width: 100%;
-    margin-top: 8rem;
+    margin-top: 16rem;
 ">
