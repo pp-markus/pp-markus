@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant.
+## I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant
 
 
 
