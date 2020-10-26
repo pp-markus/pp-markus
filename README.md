@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 
 
-
 <img src="images/hero-peaks.svg">
