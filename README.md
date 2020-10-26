@@ -1,14 +1,11 @@
 # Hi there 👋
 
-## I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant.
 
-<img src="images/hero-peaks.svg" width="100%">
+## 🤓 I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant.
 
 
 
 <!--
-**pp-markus/pp-markus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,3 +17,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="images/icons/js.png">
+<img src="images/icons/node.png">
+<img src="images/icons/python.png">
+<img src="images/icons/firebase.png">
+<img src="images/icons/bigquery.png">
+<img src="images/icons/powerbi.png">
+
+
+<img src="images/hero-peaks.svg"
+  style="
+    width: 100%;
+    margin-top: 14rem;
+">
