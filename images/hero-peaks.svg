@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="970px" height="424px" viewBox="0 0 970 424" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>Grafik</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="76.4608176%" y1="100%" x2="27.1462151%" y2="39.8987846%" id="linearGradient-1">
+            <stop stop-color="#60D5F2" offset="0%"></stop>
+            <stop stop-color="#31AAE1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-399.000000, -251.000000)">
+            <g id="Teaser" transform="translate(0.000000, -21.000000)">
+                <g id="Group-2">
+                    <g id="Grafik" transform="translate(399.000000, 272.000000)">
+                        <path d="M575,424 L502.907974,352.420553 C472.256401,321.781008 422.560091,321.781008 391.907328,352.420553 C361.255754,383.061288 311.558254,383.061288 280.90549,352.420553 L231.446079,302.980551 C200.794506,272.339816 151.097006,272.339816 120.445432,302.980551 L0,424 L575,424 Z" id="Page-1" fill="#172F4B" style="mix-blend-mode: multiply;"></path>
+                        <polygon id="Page-1" fill-opacity="0.799999952" fill="url(#linearGradient-1)" points="631.126694 0 445.551941 232.19036 391.565525 168.255434 179 424 631.126694 424 970 424"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
