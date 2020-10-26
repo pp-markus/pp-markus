@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-## 🤓 I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant.
+## I am Markus and I am working at Peaks & Pies GmbH as a Business Intelligence Consultant.
 
 
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I speak...
+### 🤓 I speak...
 
 <img src="images/icons/js.png"> <img src="images/icons/node.png"> <img src="images/icons/python.png"> <img src="images/icons/firebase.png"> <img src="images/icons/svelte.png"><img src="images/icons/bigquery.png"> <img src="images/icons/gcloud.png"> <img src="images/icons/powerbi.png">
 
